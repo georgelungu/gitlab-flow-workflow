@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>gitlab-flow-wflow</id>
+    <version>1.0.0</version>
+    <authors>gitlab-flow-wflow</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="05ebbaeea0df2c641fe99b8daf22ae0c144b84f8" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\bin\Release\net8.0\gitlab-flow-wflow.runtimeconfig.json" target="lib\net8.0\gitlab-flow-wflow.runtimeconfig.json" />
+    <file src="D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\bin\Release\net8.0\gitlab-flow-wflow.dll" target="lib\net8.0\gitlab-flow-wflow.dll" />
+  </files>
+</package>
