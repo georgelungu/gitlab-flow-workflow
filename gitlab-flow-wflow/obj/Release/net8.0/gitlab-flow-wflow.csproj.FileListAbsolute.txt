@@ -1,0 +1,15 @@
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\bin\Release\net8.0\gitlab-flow-wflow.exe
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\bin\Release\net8.0\gitlab-flow-wflow.deps.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\bin\Release\net8.0\gitlab-flow-wflow.runtimeconfig.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\bin\Release\net8.0\gitlab-flow-wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\bin\Release\net8.0\gitlab-flow-wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\gitlab-flow-wflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\gitlab-flow-wflow.AssemblyInfoInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\gitlab-flow-wflow.AssemblyInfo.cs
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\gitlab-flow-wflow.csproj.CoreCompileInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\gitlab-flow-wflow.sourcelink.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\gitlab-flow-wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\refint\gitlab-flow-wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\gitlab-flow-wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\gitlab-flow-wflow.genruntimeconfig.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitlab-flow-workflow\gitlab-flow-wflow\obj\Release\net8.0\ref\gitlab-flow-wflow.dll
